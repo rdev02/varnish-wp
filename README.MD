@@ -1,0 +1,1 @@
+varnish config for caching a wordpress server
